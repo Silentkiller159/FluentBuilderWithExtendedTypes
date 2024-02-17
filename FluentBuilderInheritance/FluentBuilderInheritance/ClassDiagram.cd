@@ -22,7 +22,7 @@
     </TypeIdentifier>
   </Class>
   <Class Name="FluentBuilderInheritance.FluentBuilderA" Collapsed="true">
-    <Position X="7" Y="3.75" Width="1.5" />
+    <Position X="13.5" Y="3.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
       <FileName>FluentBuilderA.cs</FileName>
@@ -30,14 +30,14 @@
     <Lollipop Position="0.2" />
   </Class>
   <Class Name="FluentBuilderInheritance.FluentBuilderAsetFirst&lt;TBuilder&gt;" Collapsed="true">
-    <Position X="9.25" Y="2.5" Width="1.5" />
+    <Position X="12" Y="2.5" Width="2.5" />
     <TypeIdentifier>
       <HashCode>AAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
       <FileName>FluentBuilderAsetFirst.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="FluentBuilderInheritance.FluentBuilderB" Collapsed="true">
-    <Position X="11.5" Y="5.25" Width="1.5" />
+    <Position X="12.25" Y="5.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
       <FileName>FluentBuilderB.cs</FileName>
@@ -45,14 +45,14 @@
     <Lollipop Position="0.2" />
   </Class>
   <Class Name="FluentBuilderInheritance.FluentBuilderBSetSecond&lt;TBuilder&gt;" Collapsed="true">
-    <Position X="10.25" Y="3.75" Width="1.5" />
+    <Position X="10.25" Y="3.75" Width="2.75" />
     <TypeIdentifier>
       <HashCode>AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>FluentBuilderBSetSecond.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="FluentBuilderInheritance.FluentBuilderC" Collapsed="true">
-    <Position X="9.25" Y="6.75" Width="1.5" />
+    <Position X="9.75" Y="6.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
       <FileName>FluentBuilderC.cs</FileName>
@@ -60,21 +60,21 @@
     <Lollipop Position="0.2" />
   </Class>
   <Class Name="FluentBuilderInheritance.FluentBuilderCSetThird&lt;TBuilder&gt;" Collapsed="true">
-    <Position X="9.25" Y="5.25" Width="1.5" />
+    <Position X="9.25" Y="5.25" Width="2.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAA=</HashCode>
       <FileName>FluentBuilderCSetThird.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="FluentBuilderInheritance.Program" Collapsed="true">
-    <Position X="14" Y="2.5" Width="1.5" />
+    <Position X="6.75" Y="2.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
       <FileName>Program.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Interface Name="FluentBuilderInheritance.FluentBuilder&lt;T&gt;" Collapsed="true">
-    <Position X="14" Y="3.75" Width="1.5" />
+    <Position X="6.75" Y="4" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
       <FileName>FluentBuilder.cs</FileName>
