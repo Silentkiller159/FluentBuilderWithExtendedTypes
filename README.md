@@ -6,4 +6,4 @@ In this example the T base data type class is the A class.
 
 Quick overview of the classes in diagram bellow
 
-![alt text](classDiagram.png)
+![alt text](image.png)

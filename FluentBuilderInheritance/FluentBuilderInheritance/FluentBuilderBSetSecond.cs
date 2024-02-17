@@ -13,7 +13,7 @@ namespace FluentBuilderInheritance
     /// The B data type extends the base-class data type A, so the cast is possible
     /// </summary>
     /// <typeparam name="TBuilder">Data type of the builder, should be set as the highest class in the hierarchy -> Without recursive generic!</typeparam>
-    public class FluentBuilderBSetSecond<TBuilder> : FluentBuilderAsetFirst<TBuilder> where TBuilder : FluentBuilderBSetSecond<TBuilder>
+    public class FluentBuilderBSetSecond<TBuilder> : FluentBuilderASetFirst<TBuilder> where TBuilder : FluentBuilderBSetSecond<TBuilder>
     {
         public TBuilder setSecond(int value)
         {

@@ -13,7 +13,7 @@ namespace FluentBuilderInheritance
     /// 
     /// Also, extends the Fluent Builder which provides method for setting the "prvni" field of the data type A
     /// </summary>
-    public class FluentBuilderA : FluentBuilderAsetFirst<FluentBuilderA>, FluentBuilder<A>
+    public class FluentBuilderA : FluentBuilderASetFirst<FluentBuilderA>, FluentBuilder<A>
     {
         public FluentBuilderA()
         {
