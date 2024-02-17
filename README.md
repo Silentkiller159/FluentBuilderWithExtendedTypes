@@ -3,4 +3,4 @@ Example of fluent builders with etended types. Possibility to extend fluent buil
 
 Quick overview of the classes in diagram bellow
 
-![alt text](image.png)
+![alt text](classDiagram.png)
