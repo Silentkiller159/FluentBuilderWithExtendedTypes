@@ -8,11 +8,11 @@ namespace FluentBuilderInheritance
 {
     public class C : B
     {
-        public int treti;
+        public int third;
 
         public override string ToString()
         {
-            return $"I am C and first is: {prvni}, second is: {druhy}, third is: {treti}";
+            return $"I am C and first is: {first}, second is: {second}, third is: {third}";
         }
     }
 }
